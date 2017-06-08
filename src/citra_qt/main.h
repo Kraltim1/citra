@@ -9,6 +9,8 @@
 #include <QMainWindow>
 #include <QTimer>
 #include "ui_main.h"
+#include "cheat_gui.h"
+#include "cheatsearch.h"
 
 class CallstackWidget;
 class Config;
